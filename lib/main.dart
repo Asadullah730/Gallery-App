@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:camera/camera.dart';
-import 'package:camera_usage/profilescreen.dart';
+import 'package:camera_usage/Screens/profilescreen.dart';
 import 'package:camera_usage/switchingCamera.dart';
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
